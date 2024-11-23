@@ -1,16 +1,3 @@
-# meeting_app
+## Abstract
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The **Flutter Zoom Clone** project is a cross-platform app built using Flutter, showcasing key features of a video conferencing platform like Zoom. It includes **real-time video and audio calls** using video SDKs like **Agora** or **Jitsi Meet**, **user authentication** with Firebase, and **chat functionality** during meetings. The app uses **widgets** for a responsive UI, **state management** for smooth interactions, and integrates **Firebase Firestore** for managing meeting data and messages. 
