@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857476693428",
+    "project_id": "my-cloned-pages",
+    "storage_bucket": "my-cloned-pages.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857476693428:android:3ef1ac86c32cd1575b86e1",
+        "android_client_info": {
+          "package_name": "com.example.meeting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857476693428-pk3gnhes311b23e210nmmqgs1cgq1dbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFQ1YRC2v8MmXgN8nLBROWpiDqiyCxFDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857476693428-pk3gnhes311b23e210nmmqgs1cgq1dbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
